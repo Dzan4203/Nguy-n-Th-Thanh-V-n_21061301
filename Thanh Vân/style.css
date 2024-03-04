@@ -1,0 +1,41 @@
+h1{
+    font-family: Arial;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2{
+    font-family: Arial;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: bold;
+    margin-left:400px;
+}
+
+h3{
+    font-family: Arial;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase
+}
+
+div{
+    border-bottom-right-radius: 10px;
+}
+button{
+  
+    border-top-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border-top-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+}
+body {
+  background-image: url "https://cdn.glitch.global/74c06492-059f-4e65-b9db-c23943c8fb44/pexels-photo-1695052.jpeg?v=1709436085205";
+  height: 40px
+}
+ul {
+  list-style: none;
+}
+
